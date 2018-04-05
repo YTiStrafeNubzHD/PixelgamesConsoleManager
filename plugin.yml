@@ -1,0 +1,19 @@
+name: PixelgamesConsoleManager
+version: 0.3
+author: iStrafeNubzHDyt
+main: Author\PixelgamesConsoleManager\PixelgamesConsoleManager
+api: 3.0.0-ALPHA11
+
+commands:
+    cm:
+        description: Der Hauptbefehl für PixelgamesConsoleManager, verwaltet und unterstützt die Arbeit an der Console/Log
+        usage: /cm <clear|info|help>
+        permission: pgcm.command
+       
+permission:
+    pgcm.command:
+        description: Das Recht, den Befehl /cm benutzen zu können
+        default: false
+    
+    
+        
