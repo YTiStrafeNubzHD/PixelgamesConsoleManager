@@ -1,6 +1,6 @@
 Changelog PixelgamesConsoleManager:
 
 v0.1-release: Release mit allem drum und dran
-v0.2: Permssion in Info vergessen (unnötig)
+v0.2: Permission in Info vergessen (unnötig)
 v0.3: Allgemeines API-Update auf 3.0.0-ALPHA11
 v
