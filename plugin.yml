@@ -1,8 +1,8 @@
 name: PixelgamesConsoleManager
-version: 0.4
+version: 0.5
 author: iStrafeNubzHDyt
 main: Author\PixelgamesConsoleManager\PixelgamesConsoleManager
-api: 3.0.0-ALPHA12
+api: [3.0.0-ALPHA12, 3.0.0, 4.0.0]
 
 commands:
     cm:
