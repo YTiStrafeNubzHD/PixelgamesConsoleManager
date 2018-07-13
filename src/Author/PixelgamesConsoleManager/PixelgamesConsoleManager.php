@@ -107,8 +107,8 @@ class PixelgamesConsoleManager extends PluginBase {
                     $sender->sendMessage("§e-------------------------------------");
                     $sender->sendMessage("§ePlugin von iStrafeNubzHDyt");
                     $sender->sendMessage("§bName: PixelgamesConsoleManager");
-                    $sender->sendMessage("§bVersion: 0.4");
-                    $sender->sendMessage("§bFür PocketMine-API: 3.0.0-ALPHA12");
+                    $sender->sendMessage("§bVersion: 0.5");
+                    $sender->sendMessage("§bFür PocketMine-API: 3.0.0-ALPHA12, 3.0.0, 4.0.0");
                     $sender->sendMessage("§6Permissions: pgcm.command");
                     $sender->sendMessage("§eSpeziell für PIXELGAMES entwickelt");
                     $sender->sendMessage("§e-------------------------------------");
